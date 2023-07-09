@@ -18,5 +18,7 @@ Below are a few sample screenshots from the game. More can be found in the `imag
 
 ![](images/cube-game-4.png?raw=true)
 
+![](images/cube-game-pause-menu.png?raw=true)
+
 ![](images/Unity-Editor-Cube-Game.png?raw=true)
 
